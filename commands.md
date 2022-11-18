@@ -19,4 +19,6 @@ ___
 + git checkout master - возврат к актуальному состоянию.
 
 
-## Источник: <https://gbcdn.mrgcdn.ru/uploads/asset/4685872/attachment/5cc3447d37264c5ae392dc075a1b36de.pdf>
+## Источник:
+
+<https://gbcdn.mrgcdn.ru/uploads/asset/4685872/attachment/5cc3447d37264c5ae392dc075a1b36de.pdf>
